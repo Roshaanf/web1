@@ -1,0 +1,27 @@
+
+.main{
+    background-color:rgb(224,226,243);
+}
+.second{
+    background-color: rgb(211,211,211);
+}
+.middle{
+    margin:10px 10px 0px 10px;
+    
+    background-color: white;
+}
+.fourth{
+    background-color: white;
+}
+i{
+    color: red;
+}
+.h{
+color: rgb(100,111,195);}
+
+a{
+    color:black;
+}
+sub{
+    color:rgb(128,128,128);
+}
